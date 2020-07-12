@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Swastik. 
 
-<!--
-**swastiknath/swastiknath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me:
+I believe in the philosophy of continuous learning. Technology, alone can change the way we see the world. Being one of the true to heart devotee to the divine power of Technology, I have self-assigned the privilege to spread the goodness of it around the world.
 
-Here are some ideas to get you started:
+#### Connect With Me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Website ](https://swastiknathgroup.com)
+ - [LinkedIN](https://linkedin.com/in/nathswastik)
+ - [StackOverFlow Developer Story](https://stackoverflow.com/story/swastiknath)
+ - [YourAcclaim](https://www.youracclaim.com/users/swastiknath/badges)
+ - [Towards Data Science](https://towardsdatascience.com/@swastiknath)
+ - [Twitter](https://twitter.com/@oet_technique)
+ - [Instagram](https://instagram.com/swastiknath.rl)
+ 
