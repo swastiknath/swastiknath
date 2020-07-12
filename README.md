@@ -1,7 +1,12 @@
 ### Hi, I'm Swastik. 
 
 #### About Me:
-I believe in the philosophy of continuous learning. Technology, alone can change the way we see the world. Being one of the true to heart devotee to the divine power of Technology, I have self-assigned the privilege to spread the goodness of it around the world.
+"Committed to code applications to enhance millions of lives worldwide"
+
+Before proceeding further about me, I would love myself to be introduced as a devotee to all things modern technology. I believe in constant learning and spontaneous absorption of technical skills. Throughout all these years I've grasped more than 14 programming languages and counting, more than 5 database system and counting. I am greatly endeavoured to get to know about the Deep Reinforcement Learning and Machine Learning models, in which I am currently working on. I think, these areas are the most important things modern technology has ever produced.
+
+In the field of programming and computer sciences I have learnt that, there should be no fear in the mind of breaking features in order to test and innovate newer features. So, this game of creating and breaking things that I create is what keeps me going forward in this ever-changing world of computing.
+
 
 #### Connect With Me: 
 
