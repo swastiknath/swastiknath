@@ -1,3 +1,4 @@
+![](https://github.com/swastiknath/swastiknath/raw/master/Swastik%20N..png)
 ### Hi, I'm Swastik. 
 
 #### About Me:
