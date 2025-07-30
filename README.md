@@ -10,7 +10,7 @@ Advanced Management Programme in Business Analytics, Indian School of Business, 
 
 
 ### Professional Associations:
-Co-Founder, SentienceAlpha, Inc. \
+Co-Founder - SentienceAlpha, Inc. \
 CEO & Engineering Lead - OBS Group, Inc.  \
 Contributing Member, Special Interest Group on Algorithms & Computational Complexity, Asssociation for Computing Machinery. \
 Former Research Engineer (Intelligent Systems), Rimac. \
