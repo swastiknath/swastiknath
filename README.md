@@ -6,7 +6,7 @@ Pre-doctoral Research Scientist (Pursuing) - BAIR LAB, University of California,
 Executive Doctoral Fellow Programme in Management (Pursuing), Indian School of Business, Hyderabad. \
 MBA (Strategic Administration Specialization) - HEC Paris. \
 MSc. (Computer Science) -  St. Xavier's College (Autonomous), Kolkata. \
-Advanced Management Programme in Business Analytics, Indian School of Business, Hyderabad. 
+Advanced Management Programme in Business Analytics (AMPBA), Indian School of Business, Hyderabad. 
 
 
 ### Professional Associations:
