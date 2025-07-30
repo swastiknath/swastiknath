@@ -1,5 +1,4 @@
 # 💫 About Me:
-Chief Executive Officer & Lead of Engineering, The Observation Tech Inc.<br>Associate Research Fellow (Quantum Gradient Optimisation), Google Cloud Platform.<br>Former Senior Research Engineer & Lead of 3D Vision Research (IN), Intel RealSense Division,<br>Former Senior Data Engineer, Goldman Sachs.
 
 
 ## 🌐 Socials:
