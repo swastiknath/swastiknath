@@ -14,7 +14,7 @@ Co-Founder - SentienceAlpha, Inc. \
 CEO & Engineering Lead - OBS Group, Inc.  \
 Co-Founder & Managing Partner - Init Capitals LLC \
 Contributing Member, Special Interest Group on Algorithms & Computational Complexity, Asssociation for Computing Machinery. \
-Former Research Engineer (Intelligent Systems), Rimac. \
+Former Research Engineer (Intelligent Drive-by-wire & Automations), Rimac. \
 Former Research Scientist (Quantum Optimization), Rigetti Systems. \
 Former Systems Lead, Intel RealSense 3D Vision Team, Intel (India).  \
 Former Associate Data Engineer, Goldman Sachs (India).  
