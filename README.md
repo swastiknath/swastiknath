@@ -13,7 +13,7 @@ Advanced Management Programme in Business Analytics, Indian School of Business, 
 Co-Founder, SentienceAlpha, Inc. \
 CEO & Engineering Lead - OBS Group, Inc.  \
 Contributing Member, Special Interest Group on Algorithms & Computational Complexity, Asssociation for Computing Machinery. \
-Former Research Engineer (Drive-train Intelligence Systems), Rimac. \
+Former Research Engineer (Intelligent Systems), Rimac. \
 Former Senior Research Scientist (Quantum Pipelines), Rigetti Systems. \
 Former Systems Lead, Intel RealSense 3D Vision Team, Intel (India).  \
 Former Associate Data Engineer, Goldman Sachs (India).  
