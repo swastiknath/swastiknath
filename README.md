@@ -12,6 +12,7 @@ Advanced Management Programme in Business Analytics, Indian School of Business, 
 ### Professional Associations:
 Co-Founder - SentienceAlpha, Inc. \
 CEO & Engineering Lead - OBS Group, Inc.  \
+Co-Founder & Managing Partner - Init Capitals LLC \
 Contributing Member, Special Interest Group on Algorithms & Computational Complexity, Asssociation for Computing Machinery. \
 Former Research Engineer (Intelligent Systems), Rimac. \
 Former Senior Research Scientist (Quantum Pipelines), Rigetti Systems. \
