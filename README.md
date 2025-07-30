@@ -1,5 +1,22 @@
 # 💫 About Me:
 
+### Education & Research: 
+MTech (Research) - Pursuing, CSE, Indian Institute of Technology, Madras, Chennai.
+Pre-doctoral Research Scientist (Pursuing) - BAIR LAB, University of California, Berkeley. 
+Executive Doctoral Fellow Programme in Management (Pursuing), Indian School of Business, Hyderabad.
+
+MBA (Strategic Administration Specialization) - HEC Paris.
+MSc. (Computer Science) -  St. Xavier's College (Autonomous), Kolkata.
+Advanced Management Programme in Business Analytics, Indian School of Business, Hyderabad.
+
+### Professional Associations:
+Co-Founder, SentienceAlpha, Inc.
+CEO & Engineering Lead - OBS Group, Inc. 
+Contributing Member, Special Interest Group on Algorithms & Computational Complexity, Asssociation for Computing Machinery.
+Former Research Engineer (Drive-train Intelligence Systems), Rimac.
+Former Senior Research Scientist (Quantum Pipelines), Rigetti Systems.
+Former Systems Lead, Intel RealSense 3D Vision Team, Intel (India). 
+Former Associate Data Engineer, Goldman Sachs (India). 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathswastik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@swastiknath) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/swastiknath) 
